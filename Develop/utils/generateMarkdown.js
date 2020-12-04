@@ -15,12 +15,13 @@ ${data.description}
 * [Installation](#installation)
 * [Usage](#usage)
 * [Contribution](#contribution)
+* [GitHub](#github)
+* [Email](#email)
 ${data.license === 'None'? "": "* [License](#license)"}
 
 ## Installation
 ${data.install}
-* [GitHub](#github)
-* [Email](#email)
+
 `;
 
 }

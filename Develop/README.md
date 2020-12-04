@@ -8,9 +8,16 @@ creating readme file
 * [Contribution](#contribution)
 * [GitHub](#github)
 * [Email](#email)
-
 * [License](#license)
 
 ## Installation
 npm <command> [args]
+## Usage
 
+## Contribution
+
+## GitHub
+
+## Email
+
+## License
