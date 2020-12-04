@@ -13,6 +13,7 @@ creating readme file
 ## Installation
 npm <command> [args]
 ## Usage
+npm start
 
 ## Contribution
 
