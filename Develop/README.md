@@ -16,9 +16,10 @@ npm <command> [args]
 npm start
 
 ## Contribution
-
+submit pull request
 ## GitHub
-
+https://github.com/Str8upjayhawk10
 ## Email
-
+str8upjayhawk10@gmail.com
 ## License
+Academic Free License v3.0 afl-3.0
