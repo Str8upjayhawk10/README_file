@@ -1,7 +1,7 @@
 # Readme
 ![GitHub license](https://img.shields.io/badge/license-GPL 3.0-blue.svg)
 ## Description
-creating a professional readme
+creating readme file
 ## Table Contents
 * [Installation](#installation)
 * [Usage](#usage)
@@ -12,7 +12,5 @@ creating a professional readme
 * [License](#license)
 
 ## Installation
-npm i
-
-
+npm <command> [args]
 
