@@ -13,12 +13,15 @@ creating readme file
 ## Installation
 npm <command> [args]
 ## Usage
+Load appropriate version for your system
+
 npm start
 
 ## Contribution
 submit pull request
 ## GitHub
 https://github.com/Str8upjayhawk10
+<img src="./utils/readmescreenshot.png">
 ## Email
 str8upjayhawk10@gmail.com
 ## License
